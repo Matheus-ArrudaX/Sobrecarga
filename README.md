@@ -1,8 +1,20 @@
 # Sobrecarga
-Matheus de Paula Oliveira - RA: 822160889
+Nome: Aparicio Fermiano dos Santos Junior - RA: 82019785
+<br>
+Nome: Gabriel de Almeida Araujo - RA: 822134612
+<br>
+Nome: Felipe Venezuela do Nascimento - RA: 822155758
+<br>
+Nome: Henrique Mandri da Costa - RA: 822227761
+<br>
+Nome: Hiago Silva Florêncio - RA: 822140407
+<br>
+Nome: Matheus de Paula Oliveira - RA: 822160889
+<br>
+Nome: Matheus Martins de Arruda - RA: 822159811
 <br>
 Nathan Ferreira dos Reis - RA: 822156739
 <br>
-Rodrigo Teru Nakamura - RA: 82211408
+Nome: Rodrigo Teru Nakamura - RA: 82211408
 <br>
-Matheus Martins de Arruda - RA: 822159811 
+Nome: Vanessa Basilio Jardim - RA: 822162502
